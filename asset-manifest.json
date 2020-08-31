@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Camilo95VP/Markdown_previewer/static/js/main.9e431431.chunk.js",
+    "main.js.map": "/Camilo95VP/Markdown_previewer/static/js/main.9e431431.chunk.js.map",
+    "runtime-main.js": "/Camilo95VP/Markdown_previewer/static/js/runtime-main.790d1c89.js",
+    "runtime-main.js.map": "/Camilo95VP/Markdown_previewer/static/js/runtime-main.790d1c89.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Camilo95VP/Markdown_previewer/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9ce836c5.chunk.js": "/Camilo95VP/Markdown_previewer/static/js/2.9ce836c5.chunk.js",
+    "static/js/2.9ce836c5.chunk.js.map": "/Camilo95VP/Markdown_previewer/static/js/2.9ce836c5.chunk.js.map",
+    "index.html": "/Camilo95VP/Markdown_previewer/index.html",
+    "precache-manifest.659ee7a0375ab0a4eef57a7d34caf2e3.js": "/Camilo95VP/Markdown_previewer/precache-manifest.659ee7a0375ab0a4eef57a7d34caf2e3.js",
+    "service-worker.js": "/Camilo95VP/Markdown_previewer/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Camilo95VP/Markdown_previewer/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.9ce836c5.chunk.js.LICENSE.txt": "/Camilo95VP/Markdown_previewer/static/js/2.9ce836c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790d1c89.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9ce836c5.chunk.js",
+    "static/js/main.9e431431.chunk.js"
+  ]
+}
